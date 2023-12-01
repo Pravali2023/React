@@ -1,7 +1,7 @@
 {
-  "name": "yuvateja",
+  "name": "pravallika",
   "version": "1.0.0",
-  "main": "index.js",
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -9,7 +9,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.10.3"
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
   },
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "install": "^0.13.0",
+    "npm": "^10.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":{ "last 10 chrome versions": "lst 2 firefox version" }
 }
